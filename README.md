@@ -4,7 +4,7 @@ Reproducibility package for the paper:
 
 > **Economic Design and Optimization of CSP-1 Continuous Sampling Plans with a
 > Four-Component Cost Model under Markovian Transition Dynamics**
-> D. Peña-González, R. Torres-Peña, G. Solano-Navarro.
+> D. Peña-González, R. Torres-Peña, G. Solano Navarro.
 > Submitted to the *International Journal of Production Economics*.
 
 This repository contains the model, optimizer, simulation, sensitivity/robustness
